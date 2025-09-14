@@ -1,0 +1,38 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/LocalRepository/learning/MauiApp1" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/MauiBlazor1" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/MauiBlazor1/.idea/.idea.MauiBlazor1" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/RiderAvaloniaCrossTest1/RiderAvaloniaCrossTest1" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/avalonia-demo/AvaloniaMobileTest" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/avalonia-demo/AvaloniaMobileTest/.idea/.idea.AvaloniaMobileTest" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/CSharpGettingStarted" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/CSharpGettingStarted/.idea/.idea.CSharpGettingStarted" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/Clean_architecture_getting_started/GymManagement" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/Clean_architecture_getting_started/GymManagement/.idea/.idea.GymManagement" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/Dometrain.Dapper" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/Dometrain.Dapper/.idea/.idea.Dometrain.Dapper" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/MinimalApiCourse" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/courses/MinimalApiCourse/.idea/.idea.MinimalApiCourse" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/dotNetPlayground" value="true" />
+        <entry key="$USER_HOME$/LocalRepository/learning/dotNetPlayground/.idea/.idea.dotNetPlayground" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/03.01" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/03.01/.idea/.idea.Dometrain.EFCore" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/04.01" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/04.01/.idea/.idea.Dometrain.EFCore" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/05.01" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/05.01/.idea/.idea.Dometrain.EFCore" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/06.01" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/06.01/.idea/.idea.Dometrain.EFCore" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/07.01" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/07.01/.idea/.idea.Dometrain.EFCore" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/08.01" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Entity Framework Core in .NET 2024-5/code/08.01/.idea/.idea.Dometrain.EFCore" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Unit testing in C# 2024-1/code/code/Unit testing course code" value="true" />
+        <entry key="$USER_HOME$/Movies/Courses/Dometrain - From Zero to Hero Unit testing in C# 2024-1/code/code/Unit testing course code/.idea/.idea.Course.UnitTesting" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

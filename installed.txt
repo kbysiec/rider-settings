@@ -1,0 +1,11 @@
+socrates.tabshifter
+com.github.catppuccin.jetbrains
+com.jetbrains.rider.android
+com.github.catppuccin.jetbrains_icons
+com.codeium.intellij
+Key Promoter X
+unreal-link
+com.intellij.ml.llm
+com.chrisrm.idea.MaterialThemeUI
+me.rafaelldi.aspire
+com.mnw.tabmover

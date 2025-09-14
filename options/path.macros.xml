@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="BUNDLED_DOTNET_LOCATION" value="/Applications/Rider.app/Contents/lib/ReSharperHost/macos-arm64/dotnet/dotnet" />
+    <macro name="JB_DRIVER_LOCATION" value="/Applications/Rider.app/Contents/tools/JbMsDriver" />
+  </component>
+</application>
