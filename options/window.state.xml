@@ -36,13 +36,9 @@
     <size key="GridCell.Tab.-1.bottom.0.0.2560.1080" width="1366" height="444" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="25" width="2560" height="1055" extendedState="6" />
+    <frame x="1280" y="25" width="1280" height="1055" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="880" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1746447009217">
-      <screen x="0" y="25" width="2560" height="1055" />
-    </state>
-    <state x="880" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.2560.1055" timestamp="1746447009217" />
     <state x="1005" y="413" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1753272814397">
       <screen x="0" y="25" width="2560" height="1055" />
     </state>
@@ -66,11 +62,11 @@
       <screen x="0" y="25" width="2560" height="1055" />
     </state>
     <state width="450" height="141" key="ShowUsagesActions.dimensionServiceKey/0.25.2560.1055" timestamp="1751012713088" />
-    <state x="1280" y="522" width="800" height="875" key="WELCOME_SCREEN" timestamp="1753988880108">
+    <state x="1280" y="522" width="800" height="875" key="WELCOME_SCREEN" timestamp="1757945059840">
       <screen x="0" y="25" width="2560" height="1055" />
     </state>
-    <state x="720" y="462" width="1194" height="875" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1753196410019" />
-    <state x="1280" y="522" width="800" height="875" key="WELCOME_SCREEN/0.25.2560.1055" timestamp="1753988880108" />
+    <state x="720" y="462" width="1194" height="875" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1757881472586" />
+    <state x="1280" y="522" width="800" height="875" key="WELCOME_SCREEN/0.25.2560.1055" timestamp="1757945059840" />
     <state x="1280" y="522" width="1194" height="875" key="WELCOME_SCREEN/2560.25.1440.875/0.25.2560.1055" timestamp="1753948094669" />
   </component>
 </application>

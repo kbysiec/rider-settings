@@ -6,6 +6,5 @@ com.codeium.intellij
 Key Promoter X
 unreal-link
 com.intellij.ml.llm
-com.chrisrm.idea.MaterialThemeUI
 me.rafaelldi.aspire
 com.mnw.tabmover
